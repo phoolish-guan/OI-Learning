@@ -1,32 +1,32 @@
 # 计划(Plan)
 * 字符串
 	* KMP
-** Hash
-** manacher
+	* Hash
+	* manacher
 * 计算几何
-** 基础知识
-** 向量
-*** 点乘
-*** 叉乘
-*** 基础知识
-** 凸包
+	* 基础知识
+	* 向量
+		* 点乘
+		* 叉乘
+		* 基础知识
+	* 凸包
 * 图论
-** 最短路
-*** SPFA
-*** dijkstra
-**** Heap优化
-*** Floyd
-** Tarjan
-  *强连通分量/缩点
- *拓扑排序
- *树论
-  *生成树
-   *最小生成树
-    *Kruskal
-	*Prim与Heap优化
-  *LCA
-   *倍增
-  *dfs序
+	* 最短路
+		* SPFA
+		* dijkstra
+			* Heap优化
+		* Floyd
+	* Tarjan
+		* 强连通分量/缩点
+	* 拓扑排序
+	* 树论
+		* 生成树
+			* 最小生成树
+				* Kruskal
+	* Prim与Heap优化
+  * LCA
+   * 倍增
+  * dfs序
   *树的遍历(前中后)
   *树的直径
   *树的重心
