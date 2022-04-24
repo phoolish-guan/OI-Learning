@@ -1,6 +1,6 @@
 # 计划(Plan)
 * 字符串
- * KMP
+	* KMP
 ** Hash
 ** manacher
 * 计算几何
