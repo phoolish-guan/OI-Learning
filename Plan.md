@@ -1,22 +1,22 @@
 # 计划(Plan)
 * 字符串
- * KMP
- * Hash
- * manacher
+** KMP
+** Hash
+** manacher
 * 计算几何
- * 基础知识
- * 向量
-  * 点乘
-  *叉乘
-  *基础知识
- *凸包
-*图论
- *最短路
-  *SPFA
-  *dijkstra
-   *Heap优化
-  *Floyd
- *Tarjan
+** 基础知识
+** 向量
+*** 点乘
+*** 叉乘
+*** 基础知识
+** 凸包
+* 图论
+** 最短路
+*** SPFA
+*** dijkstra
+**** Heap优化
+*** Floyd
+** Tarjan
   *强连通分量/缩点
  *拓扑排序
  *树论
